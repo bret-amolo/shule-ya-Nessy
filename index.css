@@ -1,0 +1,225 @@
+*{box-sizing: border-box;}
+.topnav{background-color: TEAL;
+overflow: hidden;}
+header{color: TEAL;
+background-color:maroon;
+padding: 40px;
+text-align: center;
+font-size: 40px;
+font-weight: bold;
+text-transform: uppercase;
+}
+header::first-letter{font-size: 50px;}
+#sidenav{background-color: orange;
+  float: left; width: 30%; height: 460px;}
+ul{list-style-type: none;}
+li{height: 45px;}
+a{color: white;
+  padding: 10px;}
+  article{background-color: TEAL;
+  color: white;
+height: 200px;
+float: right;
+width: 100%;}
+footer{background-color: black;
+  padding: relative;
+color: white;
+text-align: center;
+text-transform: capitalize;}
+.topnav a{float: left;
+color: white;
+text-align: center;
+padding: 30px;
+text-decoration: none;
+font-size: 20px;}
+.topnav a:hover{background-color: white;
+color: black;}
+.Highiiee{float: none; width: 50%;
+height: auto;}
+#maritim{position: relative;
+top: 10px;
+height: 200px;
+width: 500px;}
+#row{min-height: 500px;}
+*{font-family: 'Noto Sans KR', sans-serif;
+font-family: 'Rubik Bubbles', cursive;
+font-family: 'Share Tech Mono', monospace;}
+#phone{position: relative;
+width: 50%;
+height: 50%;}
+#shule{background-color: black;
+color: maroon;
+width: 500px;}
+#vijana{height: 870px;}
+#News{width: 50%;
+height: 50%;}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+}
+
+.fa-twitter {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+
+  #makediv50{min-height: 500px;}
+  .og{
+    position: relative;
+    top:100px;
+  }
+
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .container .btn:hover {
+    background-color: black;
+}
+#cts{top: 1px;
+position: relative;
+}
+.dropdown-item{
+  color: black;
+  background-color: white;;
+}
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+#para{text-align:
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  float: right:50PX;
+}
+#image{
+  float: none;width:100px
+  height:auto;
+}
+.mapouter{margin-left: auto;
+margin-right: auto;}
+.container{margin-right: auto;
+  margin-left:
+}
+#image{}
+
+  #hy{display: block;
+  margin-left: auto;
+margin-right: auto;
+left: 90px;
+font-size: 40px;}
+#zoom{font-weight: bolder;}
+#zoomer{text-align: center;}
+.d-block{image-rounded;}
